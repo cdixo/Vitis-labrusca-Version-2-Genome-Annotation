@@ -1,9 +1,10 @@
 Functional annotation was conducted via multiple methods including...
-'Funannotate_annotate' which included querying of the databases PFAM, InterPro, EggNog, UniProtKB, MEROPS, CAZyme, and GO ontology
-InterProScan
-OmicsBOX
-Manual Curration for genes of particular interest via BLAST
+1. 'Funannotate_annotate' which included querying of the databases PFAM, InterPro, EggNog, UniProtKB, MEROPS, CAZyme, and GO ontology
+2. InterProScan
+3. OmicsBOX
+4. Manual Curration for genes of particular interest via BLAST
 
 
-Ultimately, the files should all contain the same/similar information, but that is not to say that they indeed do as 
-the various methods may have arrived at differing conclusions.
+Ultimately, the files should all contain the same, or similar, information, but in some cases differences have been identified
+which is why all of the datasets have been provided as in some instances a certain dataset may have informed an annotation while
+for another gene another dataset informed the annotation.

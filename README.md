@@ -6,3 +6,5 @@ This folder contains all of the genes named as per their 'Data Analysis' nomencl
 To aid in the conversion from 'Data Analysis' nomenclature to 'Finalized' nomenclature, or vice versa, the 'V_labrusca_Data_Analysis_to_Finalized_Gene_ID_Conversion_Table' is provided.  This is a spreadsheet which provides the gene naming conversion from one system to the other for all 'GREM4' genes.  To simplify future studies, we ask that all future researchers use the 'Finalized' nomenclature, to keep naming consistent, clear, and concise.
 
 Additionally, the functional annotation can also be found as its own separate folder with data within pertaining to the functional annotation of the annotated genes.
+
+![Cullen Dixon PhD Graduation Headshot - cropped - lowerres (800x702)](https://github.com/cdixo/Vitis-labrusca-Version-2-Genome-Annotation/assets/114014537/33e6b770-e1c2-4c69-bd94-61af701c4bb6)

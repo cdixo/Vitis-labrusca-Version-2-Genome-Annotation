@@ -8,7 +8,8 @@ To aid in the conversion from 'Data Analysis' nomenclature to 'Finalized' nomenc
 Additionally, the functional annotation can also be found as its own separate folder with data within pertaining to the functional annotation of the annotated genes.
 
 File Type Descriptions:
-![File Naming Explanation Graphic 1png](https://github.com/cdixo/Vitis-labrusca-Version-2-Genome-Annotation/assets/114014537/b62c7e9e-ed0d-4942-8908-344daa27c51b)
+![File Naming Explanation Graphic 1png](https://github.com/cdixo/Vitis-labrusca-Version-2-Genome-Annotation/assets/114014537/f6cd7fee-ffc8-4e31-82d1-15feb332ee2c)
+
 
 For more explanation on the differences between UTRs, CDS's, pre-mRNA, mature mRNA, etc., please see below.
 

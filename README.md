@@ -5,7 +5,7 @@ This folder contains all of the genes named as per their 'Data Analysis' nomencl
 
 As of July, 2024, the genome annotation was again updated to facilitate the uploading of the genome to the _Vitis_ genome repository - grapegenomics.com.  In this process, the naming of the genes was again changed, but again, rest assured, nothing materially changed with the genes, or any other associated content, themselves.  We now **highly recommend** using the genome annotation nomenclature and files available/as hosted on the grapegenomics website which can be found directly at https://www.grapegenomics.com/pages/VlaGREM4/ .  
 
-To aid in the conversion from 'Data Analysis Nomenclature' to 'Finalized Nomenclature' to 'Grape Genomics Nomenclature', the "Gene Nomenclature Conversion WkBk" is provided which provides the gene name from all three systems to cross-reference against.  _**Moving forward, we ask that all individuals use the 'Grape Genomics Nomenclature' to name genes to ensure consistency, and facilitate ease of comparison, between publications.**_
+To aid in the conversion from 'Data Analysis Nomenclature' to 'Finalized Nomenclature' to 'Grape Genomics Nomenclature', the "Gene Nomenclature Conversion WkBk - Final V2" is provided which provides the gene name from all three systems to cross-reference against.  _**Moving forward, we ask that all individuals use the 'Grape Genomics Nomenclature' to name genes to ensure consistency, and facilitate ease of comparison, between publications.**_
 
 Additionally, the functional annotation can also be found as its own separate folder with data within pertaining to the functional annotation of the annotated genes.
 
